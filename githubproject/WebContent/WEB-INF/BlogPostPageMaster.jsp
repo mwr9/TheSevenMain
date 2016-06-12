@@ -15,13 +15,7 @@
 		<script type="text/javascript" src="scripts/jHtmlArea-0.8.js"></script>
     <link rel="Stylesheet" type="text/css" href="style/jHtmlArea.css" />
     	 <style type="text/css">
-         /* body { background: #ccc;} */
-        div.jHtmlArea .ToolBar ul li a.custom_disk_button 
-        {
-            background: url(images/disk.png) no-repeat;
-            background-position: 0 0;
-        }
-        div.jHtmlArea { border: solid 1px #ccc; }
+        
         
            </style>
         
